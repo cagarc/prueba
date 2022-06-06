@@ -6,7 +6,7 @@ Data
 
 1. Debe tener una base postgres intalada con el nombre de base postgres password root 
 2. puede utilizar cualquir ide de desarrollo que levante un etorno java con spring puebas de servicio en ambiente local utilice la siguiente url 
-
+3. Debe tener instalado en su id lombok.
 
 http://localhost:8080/openapi/swagger-ui/index.html#/movimiento%20v1.0
 

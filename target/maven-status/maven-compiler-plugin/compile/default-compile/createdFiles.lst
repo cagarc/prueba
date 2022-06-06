@@ -1,0 +1,14 @@
+com\prueba\micro\repository\ifc\IReporteRepo.class
+com\prueba\micro\util\BusinessException.class
+com\prueba\micro\repository\model\Persona.class
+com\prueba\micro\repository\model\Movimiento.class
+com\prueba\micro\constants\TiposDeCuenta.class
+com\prueba\micro\controller\dto\Genero.class
+com\prueba\micro\controller\dto\MovimientoDto.class
+com\prueba\micro\service\ifc\IMovimientosSvc.class
+com\prueba\micro\constants\TipoError.class
+com\prueba\micro\controller\dto\TiposDeMovimiento.class
+com\prueba\micro\controller\dto\MovimientosClienteDto.class
+com\prueba\micro\controller\ifc\IMovimientosControler.class
+com\prueba\micro\repository\model\Cliente.class
+com\prueba\micro\repository\model\Reporte.class

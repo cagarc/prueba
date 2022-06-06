@@ -1,0 +1,13 @@
+version: '3'
+services:
+  pruebaData:
+    container_name: pruebaData
+    image: prueba/data:1.0.0
+    ports:
+      - 8887:8080
+    volumes:
+      - ./log:/log
+    networks:
+      - pruebaData_net
+networks:
+  pruebaData_net:
